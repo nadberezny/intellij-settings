@@ -1,0 +1,5 @@
+<application>
+  <component name="ScalaCodeInsightSettings">
+    <option name="showTypeHints" value="false" />
+  </component>
+</application>
