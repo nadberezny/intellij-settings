@@ -1,7 +1,0 @@
-<application>
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig authType="PASSWORD" host="dirt" id="5ae0b509-f845-4e17-a152-0818288f3ec9" port="22" nameFormat="DESCRIPTIVE" username="jnd" />
-    </configs>
-  </component>
-</application>
